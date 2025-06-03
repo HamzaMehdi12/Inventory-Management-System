@@ -13,6 +13,10 @@ Restocking Logic: Update_Inventory finds bulks with fewer than five units, loops
 Order Status & Helpers: Update_Order_Status updates an order’s Status and Dispatch_ID in Order_Status, while Continue_ simply returns a “yes/no”-based message (“Starting adding Transaction,” “No transaction,” or “Invalid Input”).
 
 ## Images
+## EER Diagram
+![Inventory_Management_System](https://github.com/user-attachments/assets/d602a758-93fe-446b-b885-f6548a70f3da)
+
+
 ### Order Status
 ![Order_Status](https://github.com/user-attachments/assets/d99029c9-88b5-4e6a-8a20-8d78e826244e)
 ### Orders
